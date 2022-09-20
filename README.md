@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alphaEmpyrean
 - 👀 I’m interested in learning to program.
-- 🌱 I’m currently learning to use TDD.
+- 🌱 I’m currently learning Spring.
 - 💞️ I’m looking to collaborate on anything that will expand my knowledge.
 - 📫 How to reach me dev@alphaEmpyrean.com
 
