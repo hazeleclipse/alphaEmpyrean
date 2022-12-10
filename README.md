@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alphaEmpyrean
-- 👀 I’m interested in learning to program.
-- 🌱 I’m currently learning Spring.
+- 👀 I’m interested in learning to engineer software.
+- 🌱 I’m currently learning C# and the .Net framework.
 - 💞️ I’m looking to collaborate on anything that will expand my knowledge.
 - 📫 How to reach me dev@alphaEmpyrean.com
 
