@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to engineer software.
 - 🌱 I’m currently learning C# and the .Net framework.
 - 💞️ I’m looking to collaborate on anything that will expand my knowledge.
-- 📫 How to reach me josh@alphaEmpyrean.com
+- 📫 How to reach me josh@hazeleclipse.com
 
 <!---
 alphaEmpyrean/alphaEmpyrean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
